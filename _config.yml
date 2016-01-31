@@ -1,0 +1,28 @@
+name: Study In London
+favicon: null
+layout_spectrum: 0.050955669954419136
+typography_spectrum: 0.021438516210764647
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.48290330241434276
+  lightness: 0.9444287931546569
+  saturation: 0.6581577528268099
+  rhythmicContrast: 0.772557518677786
+purpose: []
