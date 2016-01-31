@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Study In London]]></title>
         <description><![CDATA[Study In London]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/study-in-london/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 02:50:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jan 2016 03:11:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/study-in-london/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a262d629-3028-47ee-8239-4a9cf7c33b46.jpg">]]></description>
+            <link>https://thegrid.ai/study-in-london/92109ba1-634a-41a7-883c-80e5d07ab50b/index.html</link>
+            <guid isPermaLink="false">92109ba1-634a-41a7-883c-80e5d07ab50b</guid>
+            <pubDate>Sun, 31 Jan 2016 03:11:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bb3f02c-b7a7-40ec-8480-ef416fea438f.jpg">]]></description>
-            <link>undefined2402b42d-6963-4375-8afb-ecc80cdb1a9b/index.html</link>
+            <link>https://thegrid.ai/study-in-london/2402b42d-6963-4375-8afb-ecc80cdb1a9b/index.html</link>
             <guid isPermaLink="false">2402b42d-6963-4375-8afb-ecc80cdb1a9b</guid>
             <pubDate>Sun, 31 Jan 2016 02:50:59 GMT</pubDate>
         </item>
