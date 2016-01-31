@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Study In London]]></title>
+        <description><![CDATA[Study In London]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 31 Jan 2016 02:50:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bb3f02c-b7a7-40ec-8480-ef416fea438f.jpg">]]></description>
+            <link>undefined2402b42d-6963-4375-8afb-ecc80cdb1a9b/index.html</link>
+            <guid isPermaLink="false">2402b42d-6963-4375-8afb-ecc80cdb1a9b</guid>
+            <pubDate>Sun, 31 Jan 2016 02:50:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
